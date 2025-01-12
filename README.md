@@ -48,3 +48,7 @@ ___
 - Follow the above steps 3. - 4. to enter the virtual environment in your game folder
 - On **MacOS** use: `$python3 main.py`
 - On **Windows** use: `$python main.py`
+
+
+#### Attribution
+Thanks to [Daniel Linssen](https://managore.itch.io/m5x7) for the font used for this template.
