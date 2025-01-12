@@ -1,0 +1,4 @@
+# Constants
+GAME_WIDTH = 240
+GAME_HEIGHT = 160
+FPS = 60
