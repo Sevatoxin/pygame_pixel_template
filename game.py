@@ -44,7 +44,7 @@ class Game: # Create Game Class
         self.game_screen.fill("white") # Cleaning screen to be able to draw new things!
 
         # First message!:
-        draw_centered_text("Hello, Game!", self.game_screen)
+        draw_centered_text("Hello, Game!", self.game_screen) # the second argument tells Pygame on which so called surface the text is drawn on to
 
         # Updating screen and clock
         pygame.display.update()
